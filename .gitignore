@@ -1,0 +1,8 @@
+# Ignorar carpetas y sus contenidos
+.pytest_cache/
+__pycache__/
+Difusion/
+
+# Ignorar archivo específico
+BaseDatos.xlsx
+Pasos.txt
